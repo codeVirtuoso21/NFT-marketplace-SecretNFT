@@ -1,8 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import Head from 'next/head';
-import AlphaBanner from 'components/base/AlphaBanner';
-import MainHeader from 'components/base/MainHeader';
-import TernoaWallet from 'components/base/TernoaWallet';
 import Profile from 'components/pages/Profile';
 import NotAvailableModal from 'components/base/NotAvailable';
 import SuccessPopup from 'components/base/SuccessPopup';
